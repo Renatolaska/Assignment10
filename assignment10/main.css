@@ -1,0 +1,112 @@
+header {
+    background-color: rgb(219, 219, 219);
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 250px;
+}
+
+
+#bodyy {
+    background-color: red;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+}
+
+footer ul {
+    font-size: 30px;
+    padding: 50px;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    }
+
+header h1 {
+    text-align: center;
+    font-size: 50px;
+    font-style: normal;
+    color: aliceblue;
+}
+
+.AcMilan {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left: 3%;
+    right: 0;
+    margin-bottom: -35px;
+}
+
+.ManCity {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    margin-left: 750px;
+   margin-top: -50%;
+    
+}
+
+.Italy {
+text-align: left;
+text-decoration: none;
+margin-left: 150px;
+
+}
+
+.Italy li {
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.England  {
+margin-left: 45%;
+margin-top: -180px;
+}
+
+.England li {
+ color: black;
+ font-size: 25px;
+ 
+}
+
+.Germany {
+    margin-top: -170px;
+    margin-left: 1600px;
+}
+
+.Germany li {
+    color: black;
+        font-size: 25px;
+        text-decoration: none;
+}
+
+.Bayern {
+    width: 350px;
+    height: 350px;
+    position: relative;
+    margin-top: -50%;
+    margin-left: 1480px;
+}
+
+h2 li {
+    text-align: center;
+        font-size: 30px;
+        font-style: normal;
+        color: aliceblue;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar li { 
+    float: left;
+}
